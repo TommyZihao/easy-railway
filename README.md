@@ -1,5 +1,7 @@
 # 钢轨伤损人工智能图像识别APP—小轨当家
 
+![image.png](https://upload-images.jianshu.io/upload_images/13714448-a721faa1487062f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 > 张子豪 同济大学交通运输工程学院 城市轨道与铁道工程系 轨道结构与管理课题组
 >
 > 2020-01-07
